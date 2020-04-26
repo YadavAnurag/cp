@@ -1,0 +1,25 @@
+Binary Heap - 
+1. Complete binary tree
+2. all nodes follow some min/max property
+
+
+Min Heap - 
+Left sub tree -> is min heap
+Right sub tree -> is min heap
+Every node -> is smallest out of child nodes
+Element with the lowest value has highest priority
+
+Max Heap-
+Left sub tree -> is max heap
+Right sub tree -> is max heap
+Every node -> is maximum out of child nodes
+Element with the highest value has highest priority
+
+
+Example-
+OS process scheduling
+Movie ticket booking using paytm(paytm first user and general user)
+
+
+1. For n nodes hight of a Complete Binary tree is log(n)
+2. Insertion time complexity is log(n) 
